@@ -2,14 +2,14 @@
 
 <h1 align="center">Elo there!! the name is Cesar Adames, welcome to my GitHub Profile👾🚀</h1>
 
-###
+##Overview of stats📶##
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cadam047&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cadam047&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+##Technologies I work with🔧##
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
-###
+##Socials👻##
 
 <div align="center">
   <a href="https://www.linkedin.com/in/cesar-adames-15a417264/" target="_blank">
@@ -42,10 +42,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media1.tenor.com/m/53qNI-bTs0oAAAAd/mickey-mouse-steamboat-willie.gif"  />
+![meckey](https://github.com/user-attachments/assets/be6d34cd-4b45-4049-b7b5-3f533f3e4d7f)
 
-###
-
-<img src="https://raw.githubusercontent.com/cadam047/cadam047/output/snake.svg" alt="Snake animation" />
 
 ###
