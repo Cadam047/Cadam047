@@ -40,9 +40,8 @@
   </a>
 </div>
 
-###
+<h2 align="center">Nice to meet ya!😁</h2>
 
-<h2 align="center"![meckey](https://github.com/user-attachments/assets/be6d34cd-4b45-4049-b7b5-3f533f3e4d7f) </h2>
-
-
-###
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/be6d34cd-4b45-4049-b7b5-3f533f3e4d7f" alt="mickey mouse gif" />
+</div>
