@@ -5,8 +5,8 @@
 <h2 align="center">Overview of stats📶</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cadam047&show_icons=true&theme=tokyonight" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadam047&layout=compact&theme=tokyonight" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cadam047" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadam047" height="160" alt="languages graph" />
 </div>
 
 
